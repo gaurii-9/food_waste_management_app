@@ -1,4 +1,4 @@
-# Food Waste Management System
+# Food Waste Reduction System
 
 A command-line application to facilitate food donations from restaurants to NGOs, helping to reduce food waste and feed those in need.
 
